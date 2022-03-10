@@ -1,0 +1,13 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 2em;
+  text-transform: uppercase;
+  text-align: center;
+  background: linear-gradient(to right, #ff0000, #ffff00);
+  text-shadow: 2px 2px #7c7979;
+}
+input:hover {
+  background: #c7c5c5;
+  cursor: pointer;
+}
